@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan111354&label=Profile%20views&color=0e75b6&style=flat" alt="aryan111354" /> </p>
 
-- 👨‍💻 Portfolio Website [https://aryancodes.vercel.app](https://aryancodes.vercel.app)
+- 👨‍💻 Portfolio Website [https://aryan-thedeveloper.vercel.app/](https://aryan-thedeveloper.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
